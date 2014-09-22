@@ -3,16 +3,16 @@ Daryl Shy
 This is my introduction:
 ------------------------
 I'd like to introduce myself. My name is Daryl Shy. I am a Senior at [Lehman College](http://www.lehman.edu) studying *Computer Science* 
-#####MY HOBBIES: 
-* :video_game: 
-* listening to :musical_note: 
-* :tennis: 
-* :bowling: 
-* :pencil: 
-* And of course programming :computer: :smile:. 
+######MY HOBBIES: 
+* Playing :video_game: 
+* Listening to :musical_note: 
+* Playing :tennis: 
+        * :bowling:  
+        * :pencil: 
+* And of course programming :computer:s :smile:. 
 
 ######MY ACTIVITIES
-I am a member of the Nation Society of Black Engineers, **NSBE**. I also tutor Python, Java and Math in the Math and Computer Science Learning Center. I also work part time while maintaining a full time schedule. Oh, and last but not least, I am a proud member of the CUNY/NYTech interns program! Needless to say, I am quite busy, but I love every minute of it. 
+I am a member of the Nation Society of Black Engineers (**NSBE**). I also tutor Python, *Java* and *Math* in the Math and Computer Science Learning Center at Lehman. I also work part time while maintaining a Full-Time school schedule. Oh, and last but not least, I am a proud member of the CUNY/NYTech interns program! Needless to say, I am quite busy, but I love every minute of it. 
 
 ###### MY GOALS
 - My goal for this course is to learn web programming.
